@@ -1,5 +1,5 @@
 {
-  "name": "ip-whitelist",
+  "name": "ip-whitelist-js",
   "version": "1.0.0",
   "description": "ip whitelist to protect your API and routes",
   "main": "lib/IpWhitelist.js",
