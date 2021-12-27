@@ -1,0 +1,26 @@
+{
+  "name": "ip-whitelist",
+  "version": "1.0.0",
+  "description": "ip whitelist to protect your API and routes",
+  "main": "lib/IpWhitelist.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lolix-notepad/ip-whitelist.git"
+  },
+  "keywords": [
+    "ip",
+    "whitelist"
+  ],
+  "author": "lolix-notepad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolix-notepad/ip-whitelist/issues"
+  },
+  "homepage": "https://github.com/lolix-notepad/ip-whitelist#readme"
+}
