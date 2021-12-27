@@ -1,6 +1,6 @@
 {
   "name": "ip-guardian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ip whitelist to protect your API and routes",
   "main": "lib/IpGuardian.js",
   "directories": {
